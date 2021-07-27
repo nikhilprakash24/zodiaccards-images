@@ -1,4 +1,5 @@
-[
+{
+  "cards":[
  {
    "id": 1,
    "image": "https://gateway.pinata.cloud/ipfs/QmNdtYruPvMRDyEHWb4G3cfuN3M6UFzYrEYuztgi2d5qRs?filename=1%404x-8.png"
@@ -431,4 +432,4 @@
    "id": 108,
    "image": "https://gateway.pinata.cloud/ipfs/QmP9o6MfEVQ1GfuZAL7ck1sCSfM9NkK2C5EDrGCYg5GJVj?filename=12%404x-8.png"
  }
-]
+]}
